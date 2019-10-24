@@ -1,0 +1,28 @@
+h1{
+    text-align: center;
+}
+.output_password_box{
+    border: 2px dashed darkgray;
+    width: 100%;
+    height: 150px;
+    overflow: auto;
+}
+#newpw{
+    padding: 20px;
+    text-align: center;
+    word-wrap: normal;
+}
+#btn-danger{
+    margin: 0 auto;
+    /* background: red !important;
+    color: white; */
+    /* border-radius: 50%; */
+    /* border: 1px solid red; */
+  }
+#btn-secondary{
+    margin: 0 auto;
+
+    /* color: white;
+    background: grey;
+    position: absolute; right: 0; */
+}
