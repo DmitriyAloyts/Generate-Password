@@ -36,7 +36,7 @@ if (ucchars){
 }
 
 function genpwFunction() {
-    retVal = "";
+    var retVal = "";
     for (var i = 0, n = charset.length; i < plength; ++i) {
         dec = Math.random() * n;
         int = Math.floor(dec);
